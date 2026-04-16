@@ -76,3 +76,9 @@ Beginner HTML project.
 ## 📜 License
 
 Free to use for learning purposes.
+
+---
+
+## Output 
+
+<img width="1388" height="653" alt="Screenshot 2026-04-16 151123" src="https://github.com/user-attachments/assets/44556b7c-15b9-4af6-a002-a7ddaae7fc35" />
